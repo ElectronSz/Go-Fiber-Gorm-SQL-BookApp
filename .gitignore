@@ -1,0 +1,11 @@
+/tmp
+*/tmp
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+
+*.out
